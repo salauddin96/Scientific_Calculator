@@ -81,7 +81,8 @@
                             android:text="AC"
                             android:textColor="@color/yellow"
                             android:textSize="15sp"
-                            tools:targetApi="lollipop" />
+                            tools:targetApi="lollipop"
+                            style="?android:attr/buttonBarButtonStyle" />
 
                         <Button
                             android:id="@+id/bc"
@@ -93,7 +94,8 @@
                             android:padding="6dp"
                             android:text="C"
                             android:textColor="@color/yellow"
-                            android:textSize="15sp" />
+                            android:textSize="15sp"
+                            style="?android:attr/buttonBarButtonStyle" />
 
                         <Button
                             android:id="@+id/bbrac1"
@@ -105,7 +107,8 @@
                             android:padding="6dp"
                             android:text="("
                             android:textColor="#ffa500"
-                            android:textSize="15sp" />
+                            android:textSize="15sp"
+                            style="?android:attr/buttonBarButtonStyle" />
 
                         <Button
                             android:id="@+id/bbrac2"
@@ -117,7 +120,8 @@
                             android:padding="6dp"
                             android:text=")"
                             android:textColor="#ffa500"
-                            android:textSize="15sp" />
+                            android:textSize="15sp"
+                            style="?android:attr/buttonBarButtonStyle" />
 
                     </LinearLayout>
 
@@ -146,7 +150,8 @@
                             android:text="sin"
                             android:textAllCaps="false"
                             android:textColor="#ffa500"
-                            android:textSize="15sp" />
+                            android:textSize="15sp"
+                            style="?android:attr/buttonBarButtonStyle" />
 
                         <Button
                             android:id="@+id/bcos"
@@ -159,7 +164,8 @@
                             android:text="cos"
                             android:textAllCaps="false"
                             android:textColor="#ffa500"
-                            android:textSize="15sp" />
+                            android:textSize="15sp"
+                            style="?android:attr/buttonBarButtonStyle" />
 
                         <Button
                             android:id="@+id/btan"
@@ -172,7 +178,8 @@
                             android:text="tan"
                             android:textAllCaps="false"
                             android:textColor="#ffa500"
-                            android:textSize="15sp" />
+                            android:textSize="15sp"
+                            style="?android:attr/buttonBarButtonStyle" />
 
                         <Button
                             android:id="@+id/blog"
@@ -185,7 +192,8 @@
                             android:text="log"
                             android:textAllCaps="false"
                             android:textColor="#ffa500"
-                            android:textSize="15sp" />
+                            android:textSize="15sp"
+                            style="?android:attr/buttonBarButtonStyle" />
 
                         <Button
                             android:id="@+id/bln"
@@ -198,7 +206,8 @@
                             android:text="ln"
                             android:textAllCaps="false"
                             android:textColor="#ffa500"
-                            android:textSize="15sp" />
+                            android:textSize="15sp"
+                            style="?android:attr/buttonBarButtonStyle" />
 
 
                     </LinearLayout>
@@ -228,7 +237,8 @@
                             android:text="x!"
                             android:textAllCaps="false"
                             android:textColor="#ffa500"
-                            android:textSize="15sp" />
+                            android:textSize="15sp"
+                            style="?android:attr/buttonBarButtonStyle" />
 
                         <Button
                             android:id="@+id/bsquare"
@@ -241,7 +251,8 @@
                             android:text="x²"
                             android:textAllCaps="false"
                             android:textColor="#ffa500"
-                            android:textSize="15sp" />
+                            android:textSize="15sp"
+                            style="?android:attr/buttonBarButtonStyle" />
 
                         <Button
                             android:id="@+id/bsqrt"
@@ -253,7 +264,8 @@
                             android:padding="6dp"
                             android:text="√"
                             android:textColor="#ffa500"
-                            android:textSize="15sp" />
+                            android:textSize="15sp"
+                            style="?android:attr/buttonBarButtonStyle" />
 
                         <Button
                             android:id="@+id/binv"
@@ -266,7 +278,8 @@
                             android:text="1/x"
                             android:textAllCaps="false"
                             android:textColor="#ffa500"
-                            android:textSize="15sp" />
+                            android:textSize="15sp"
+                            style="?android:attr/buttonBarButtonStyle" />
 
                         <Button
                             android:id="@+id/bdiv"
